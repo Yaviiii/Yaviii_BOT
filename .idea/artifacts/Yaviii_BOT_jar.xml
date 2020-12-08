@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Yaviii_BOT:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Yaviii_BOT_jar</output-path>
+    <root id="archive" name="Yaviii_BOT.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="Yaviii_BOT" />
+    </root>
+  </artifact>
+</component>
